@@ -5,7 +5,9 @@ lxml
 seaborn
 statsmodels
 scipy
+html5
 patsy
 scikit-learn
 beautifulsoup4
-streamit
+streamlit
+selenium
